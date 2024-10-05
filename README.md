@@ -41,7 +41,7 @@ Testbench for Swapping Three Numbers:
 `timescale 1ns / 1ps
 
 module swap_three_numbers_tb;
- // Inputs
+// Inputs
 reg [7:0] a;
 reg [7:0] b;
 reg [7:0] c;
